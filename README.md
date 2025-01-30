@@ -11,3 +11,9 @@ Currently, two official plugins are available:
 
 - JavaScript
 - Appwrite
+- [TMDB](https://developer.themoviedb.org/)
+
+### Flowbite
+
+- [Link to site](https://flowbite.com/docs/components/spinner/)
+- Used to create quick loading spinners
