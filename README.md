@@ -12,8 +12,13 @@ Currently, two official plugins are available:
 - JavaScript
 - Appwrite
 - [TMDB](https://developer.themoviedb.org/)
+- react-use
 
 ### Flowbite
 
 - [Link to site](https://flowbite.com/docs/components/spinner/)
 - Used to create quick loading spinners
+
+### react-use package
+- the reason for the package is so we can use the  **useDebounce**.
+- This will help with controlling how many api request are made when searching for a movie.
