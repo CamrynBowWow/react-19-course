@@ -13,6 +13,7 @@ Currently, two official plugins are available:
 - Appwrite
 - [TMDB](https://developer.themoviedb.org/)
 - react-use
+- TailwindCSS
 
 ### Flowbite
 
